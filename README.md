@@ -27,3 +27,12 @@
 (6)
 - git add index.html
 - git commit -m "เพิ่มส่วนท้ายแบบ Responsive"
+
+(7)
+- git add comparison.docx
+- git commit -m "เปรียบเทียบ Utility Class กับ CSS ปกติ และคําอธิบาย"
+
+(8)
+- git add README.md
+- git commit -m "git ที่ใช้ใน Lab"
+- git push
